@@ -1,0 +1,313 @@
+<!DOCTYPE HTML>
+<!--
+	Prologue 1.0 by HTML5 UP
+	html5up.net | @n33co
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Android Rice /g/uide</title>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600" rel="stylesheet" type="text/css" />
+		<!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-panels.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel-noscript.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
+		</noscript>
+		<!--[if lte IE 9]><link rel="stylesheet" href="css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie8.css" /><![endif]-->
+	
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1//style.css" media="screen" />
+	<script type="text/javascript" src="engine1//jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+</head>
+	<body>
+
+		<!-- Header -->
+			<div id="header" class="skel-panels-fixed">
+
+				<div class="top">
+
+					<!-- Logo -->
+						<div id="logo">
+							<a href="http://yttrium-tyclief.github.io/"><img src="https://secure.gravatar.com/avatar/0bcc3f4be6f68c26a1d119a214c1278d?s=72" alt="" />
+							<h1 id="title">yttrium</h1>
+							<span class="byline">tripfag, developer</span></a>
+						</div>
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li><a href="#top" id="about-link" class="skel-panels-ignoreHref"><span class="icon icon-android">About Android</span></a></li>
+								<li><a href="#ROMs" id="roms-link" class="skel-panels-ignoreHref"><span class="icon icon-folder-close">ROMs</span></a></li>
+								<li><a href="#Launchers" id="launchers-link" class="skel-panels-ignoreHref"><span class="icon icon-arrow-up">Launchers</span></a></li>
+								<li><a href="#Wallpapers" id="wallpapers-link" class="skel-panels-ignoreHref"><span class="icon icon-picture">Wallpapers</span></a></li>
+								<li><a href="#Icons" id="icons-link" class="skel-panels-ignoreHref"><span class="icon icon-qrcode">Icons</span></a></li>
+								<li><a href="#Apps" id="apps-link" class="skel-panels-ignoreHref"><span class="icon icon-th-large">Apps</span></a></li>
+								<li><a href="#Games" id="games-link" class="skel-panels-ignoreHref"><span class="icon icon-gamepad">Games</span></a></li>
+							</ul>
+						</nav>
+						
+				</div>
+				
+				<div class="bottom">
+
+					<!-- Social Icons -->
+						<ul class="icons">
+							<li><a href="https://yttriumtyclief.deviantart.com/" class="icon icon-user"><span>DeviantART</span></a></li>
+							<li><a href="https://github.com/Yttrium-tYcLief" class="icon icon-github"><span>Github</span></a></li>
+							<li><a href="mailto:tyclief@gmail.com" class="icon icon-envelope"><span>Email</span></a></li>
+						</ul>
+				
+				</div>
+			
+			</div>
+
+		<!-- Main -->
+			<div id="main">
+			
+				<!-- Intro -->
+					<section id="top" class="one">
+						<div class="container">
+
+							<a href="http://ineedchemicalx.deviantart.com/art/Moonscape-381829905" class="image featured"><img src="http://onlinetechguru.org/wp-content/uploads/2013/04/url9.png" alt="" /></a>
+
+							<header>
+								<h2 class="alt">So, you want to customize <strong>Android</strong>?</h2>
+							</header>
+							
+							<p>First, you should probably understand what Android really is.<br /><br />Android is a highly modular mobile operating system based on the Linux kernel that powers most of the mobile smartphone market today. Android is FOSS, released almost completely under the Apache license, except for a few parts, like the Linux kernel it uses, which is released under the GPLv2.<br /><br />Every component of Android can be easily swapped with other components in order to specially tailor the experience for the end user. This guide will show you those components and help you pick the best ones for your taste. It should also help you keep your device clean and fast, for the best possible experience.
+							</p>
+
+							<!--<footer>
+								<a href="#portfolio" class="button scrolly">Magna Aliquam</a>
+							</footer> -->
+
+						</div>
+					</section>
+					
+				<!-- ROMs -->
+					<section id="ROMs" class="two">
+						<div class="container">
+					
+							<header>
+								<h2>ROMs</h2>
+							</header>
+							
+							<p>So, if Android is so modular, why do we need to run a special version of it?<br /><br />The answer lies in just how open Android really is. Android allows OEMs (Phone manufacturers like HTC and Samsung) to personalize it to their own taste, and in most situations, these OEMs lock down the experience to what they want it to be like. Because of this, many community developers band together and create special ROMs (usually referring to an entire picture of an operating system that gets saved to a special area called Read-Only Memory, where they get their name from), which are basically custom versions of Google's AOSP code. They create drivers for phones so that these ROMs can run on these phones, and teach users how to install them.<br /><br />In order to install a custom ROM, you'll need to usually first root your phone (obtain administrative access), and then install a custom recovery (a special small OS that allows you to install and manage new ones). This is incredibly specific for each device, but your best bet is to search <a href="http://www.xda-developers.com/">XDA Developers</a> to find instructions for your phone.<br /><br />You do not need to root and ROM your phone to begin personalizing it, and many people chose not to do so, but it will give you the greatest flexibility in regards to customization.<br /><br />Below are just a few of the many (and, in my opinion, best) ROMs out there. You can click each logo to visit their website, where you can read more information about them.</p>
+						
+							<div class="row">
+								<div class="4u">
+									<article class="item">
+										<a href="http://source.android.com/" class="image full"><img src="images/AOSP.png" alt="" /></a>
+									</article>
+									<article class="item">
+										<a href="http://aokp.co/" class="image full"><img src="images/AOKP.png" alt="" /></a>
+									</article>
+								</div>
+								<div class="4u">
+									<article class="item">
+										<a href="http://www.cyanogenmod.org/" class="image full"><img src="images/CM.png" alt="" /></a>
+									</article>
+									<article class="item">
+										<a href="https://plus.google.com/107979589566958860409/posts" class="image full"><img src="images/PA.png" alt="" /></a>
+									</article>
+								</div>
+								<div class="4u">
+									<article class="item">
+										<a href="http://www.slimroms.net/" class="image full"><img src="images/Slim.png" alt="" /></a>
+									</article>
+									<article class="item">
+										<a href="http://pac-rom.com/" class="image full"><img src="images/PAC.png" alt="" /></a>
+									</article>
+								</div>
+							</div>
+
+						</div>
+					</section>
+
+				<!-- Launchers -->
+					<section id="Launchers" class="three">
+						<div class="container">
+
+							<header>
+								<h2>Launchers</h2>
+							</header>
+
+							<a href="http://ineedchemicalx.deviantart.com/art/Pasadena-357650036" class="image featured"><img src="images/Launcher.png" alt="" /></a>
+							
+							<p>The "launcher" is the central application that Android opens whenever you press the Home button. This usually consists of your home screen, the most important part of your experience, where you'll navigate your applications and open them. You can also display widgets here, that show quick-preview things like the current weather, time, or even your email inbox.<br /><br />If you're still using the Android experience your OEM gave you, unless you have a Nexus device, chances are this will show the greatest change in your phone. There are many highly customizable launchers made by third-party developers that allow you to apply special wallpaper styles, give applications notification icons, use custom themes and icon sets, and far, far more. Below are listed just a few popular launchers. To use one, simply click the image and follow the instructions to install it on your phone. You do not need to root or ROM your device to use a special launcher.</p>
+
+                            <div class="row">
+								<div class="4u">
+									<article class="item">
+										<a href="https://play.google.com/store/apps/details?id=com.teslacoilsw.launcher" class="image full"><img src="https://lh6.ggpht.com/PBjhDgWOG_1eyJpjuvOO4zMRPRF42L-CcwyyZ1nSbRJnGWGyG-yDw_vAb5wHkYtI0eA" alt="" />Nova Launcher</a>
+									</article>
+									<article class="item">
+										<a href="https://play.google.com/store/apps/details?id=com.gau.go.launcherex" class="image full"><img src="https://lh3.ggpht.com/WlqRUdUAh6qPiPiMp3FGxTCZ6J6Qmq8Q9lRBIdkt0A4aJZghhVrY62HTO3ajdoan6iI" alt="" />GO Launcher EX</a>
+									</article>
+								</div>
+								<div class="4u">
+									<article class="item">
+										<a href="https://play.google.com/store/apps/details?id=com.anddoes.launcher" class="image full"><img src="https://lh3.ggpht.com/nJJHgG3QVnVQ14XY55GpIpPTSSsyludTp9acI4DZDLeOI_jrU0QGINeuL22NM4DLhzo" alt="" />Apex Launcher</a>
+									</article>
+									<article class="item">
+										<a href="https://play.google.com/store/apps/details?id=org.adw.launcher" class="image full"><img src="https://lh3.ggpht.com/WeeXPwBgX0BWqDhjYBXsJT5fF_gCYjqK6YuaisrI7IdtgqVTGu1WYo7Td8lC_IVxFz9X" alt="" />ADW.Launcher</a>
+									</article>
+								</div>
+								<div class="4u">
+									<article class="item">
+										<a href="https://play.google.com/store/apps/details?id=ginlemon.flowerfree" class="image full"><img src="https://lh4.ggpht.com/kRbIayLpHpUMkuuXS3cFHqCHNyurq-RQvAChBUb6zD8bcv4Ai0eB4CwcmRAypvA3OUU" alt="" />Smart Launcher</a>
+									</article>
+									<article class="item">
+										<a href="https://play.google.com/store/apps/details?id=com.lx.launcher8" class="image full"><img src="https://lh6.ggpht.com/hL8ecdMmtGACXP4XCK-xLg6IQzoz34cMkuiNHADlwz1jvTeSqRUJgXDqRI3gCYwfGWk" alt="" />Launcher 8</a>
+									</article>
+								</div>
+						    </div>
+						</div>
+					</section>
+			
+				<!-- Wallpapers -->
+					<section id="Wallpapers" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Wallpapers</h2>
+							</header>
+
+                            <a href="http://yttriumtyclief.deviantart.com/gallery/42054711" class="image featured"><img src="images/wallpaper.jpg" alt="" /></a>
+
+							<p>Your home screen's wallpaper is one of the most important components of it. It defines who you are, your style, and the entire theme of your phone. Your icons only complement your wallpaper, not the other way around. Because of this, picking a wallpaper is the first step towards styling your device. Do you want it to be simplistic? Digital? Futuristic? The choice is yours, and listed below are just a few great resources for finding new wallpapers.</p>
+
+                            <div class="row">
+								<div class="4u">
+									<article class="item">
+										<a href="http://wallbase.cc/" class="image full">wallbase.cc</a>
+									</article>
+									<article class="item">
+										<a href="http://www.cell11.com/wallpaper/2160x1920/" class="image full">CELL11</a>
+									</article>
+								</div>
+								<div class="4u">
+									<article class="item">
+										<a href="http://subtlepatterns.com/" class="image full">Subtle Patterns</a>
+									</article>
+									<article class="item">
+										<a href="https://boards.4chan.org/wg/" class="image full">/wg/</a>
+									</article>
+								</div>
+								<div class="4u">
+									<article class="item">
+										<a href="http://www.goodfon.com/catalog/macro/" class="image full">GoodFon</a>
+									</article>
+									<article class="item">
+										<a href="http://www.androidwallpaperhd.com/" class="image full">awhd</a>
+									</article>
+								</div>
+						    </div>
+                            <br />
+                            <p>Live wallpapers are also fully capable of describing your style, but you should take care to keep them simple. If they're too complex (many 3D shapes/effects), not only will your homescreen look cluttered, but it'll also drain your battery life far faster than a simple or static wallpaper.<br /><br />Below are just a few of my favorite live wallpapers.</p>
+                            <div class="row">
+								<div class="4u">
+									<article class="item">
+										<a href="https://play.google.com/store/apps/details?id=com.androidwasabi.livewallpaper.jellybean" class="image full"><img src="https://lh5.ggpht.com/vGyyk1X5vPxAUcz_czD95y-s11p8Xsar01RpzW-UAyXLYXCf3rme1XPJzpr7qgPw4_w" alt="" />Jelly Bean Live</a>
+									</article>
+									<article class="item">
+										<a href="https://play.google.com/store/apps/details?id=com.stealthcopter.nexusrevamped" class="image full"><img src="https://lh6.ggpht.com/tnc8_kr4BCUSDFz3MShEJHCajlP_wkEBEmPBhh_p8K5EXxTboUhNbCIWgJGI9flr8A" alt="" />Nexus Revamped</a>
+									</article>
+								</div>
+								<div class="4u">
+									<article class="item">
+										<a href="https://play.google.com/store/apps/details?id=com.androidwasabi.livewallpaper.ios7" class="image full"><img src="https://lh5.ggpht.com/u_Ukzqe79gZIOM90Q4LRZVcMKfs73W5CJ4eN6GC7LLnZshK6bri8RwXhiiXh7CvwTw" alt="" />iOS 7 Live</a>
+									</article>
+									<article class="item">
+										<a href="https://play.google.com/store/apps/details?id=com.joko.lightgrid" class="image full"><img src="https://lh6.ggpht.com/7EXT263q_ASnFEV--6jKy4yJIjPoYO_njK1q_zYLqjWViOf3B4pxNofWCGOq6L8mBh4" alt="" />Light Grid</a>
+									</article>
+								</div>
+								<div class="4u">
+									<article class="item">
+										<a href="https://play.google.com/store/apps/details?id=com.eightsoft.Wasabi" class="image full"><img src="https://lh6.ggpht.com/2K65oQssMgQOx6eEDEbAohoNtzFP8SsOG5emgJxkjXXbiSz-_3mjzaSHl3mFNUPCSMvl" alt="" />Wasabi</a>
+									</article>
+									<article class="item">
+										<a href="https://play.google.com/store/apps/details?id=gilleland.software.pixelrain" class="image full"><img src="https://lh3.ggpht.com/0bf3vgFWZKVn8idSa5aeQogmzMnPfpP0SEVrMRVQMBqy7tEDwNGS3GwR7PmX7BrWylY" alt="" />Pixel Rain</a>
+									</article>
+								</div>
+						    </div>
+						</div>
+					</section>
+
+				<!-- Icons -->
+					<section id="Icons" class="three">
+						<div class="container">
+
+							<header>
+								<h2>Icons</h2>
+							</header>
+
+                            <a class="image featured"><img src="images/whycantiholdalltheseicons.png" alt="" /></a>
+
+							
+                            <p></p>
+
+
+						</div>
+					</section>
+
+				<!-- Apps -->
+					<section id="Apps" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Apps</h2>
+							</header>
+
+							<p>Elementum sem parturient nulla quam placerat viverra 
+							mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia 
+							donec curae mus. Eleifend id porttitor ac ultricies lobortis sem nunc 
+							orci ridiculus faucibus a consectetur. Porttitor curae mauris urna mi dolor.</p>
+
+						</div>
+					</section>
+
+				<!-- Games -->
+					<section id="Games" class="three">
+						<div class="container">
+
+							<header>
+								<h2>Games</h2>
+							</header>
+
+							<p>Elementum sem parturient nulla quam placerat viverra 
+							mauris non cum elit tempus ullamcorper dolor. Libero rutrum ut lacinia 
+							donec curae mus. Eleifend id porttitor ac ultricies lobortis sem nunc 
+							orci ridiculus faucibus a consectetur. Porttitor curae mauris urna mi dolor.</p>
+
+						</div>
+					</section>
+			
+			</div>
+
+		<!-- Footer -->
+			<div id="footer">
+				
+				<!-- Copyright -->
+					<div class="copyright">
+						<p>Suggestions? <a href="mailto:tyclief@gmail.com">E-mail me</a>.</p>
+						<ul class="menu">
+							<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</div>
+			</div>
+
+	</body>
+</html>

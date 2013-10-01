@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	resizeOnImport="true"
+	maxImageWidth="720"
+	maxImageHeight="320"
+	imageQuality="99"
+	showThumbsButton="false"
+	showOpenButton="true"
+	galleryHeight="63%"
+	galleryTitle=""
+	backgroundColor="rgba(34,34,34,1)"
+	thumbFrameColor="rgba(255,255,255,.5)"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+	showExpandButton="false"
+
+>
+  <image imageURL="images/Stark.png"
+	thumbURL="thumbs/Stark.jpg"
+	linkURL="https://play.google.com/store/apps/details?id=kov.theme.stark"
+	linkTarget="_blank"
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\Stark.png">
+    <title><![CDATA[Stark]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Tersus.png"
+	thumbURL="thumbs/Tersus.jpg"
+	linkURL="https://play.google.com/store/apps/details?id=kov.theme.tersus"
+	linkTarget="_blank"
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\Tersus.png">
+    <title><![CDATA[Tersus]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Tiny White.png"
+	thumbURL="thumbs/Tiny White.jpg"
+	linkURL="https://play.google.com/store/apps/details?id=com.samanthaconner.tinywhite"
+	linkTarget="_blank"
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\Tiny White.png">
+    <title><![CDATA[Tiny White]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Flatro.png"
+	thumbURL="thumbs/Flatro.jpg"
+	linkURL="https://play.google.com/store/apps/details?id=com.ryanmkelly.me.flatro"
+	linkTarget="_blank"
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\Flatro.png">
+    <title><![CDATA[Flatro]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Holler.png"
+	thumbURL="thumbs/Holler.jpg"
+	linkURL="https://play.google.com/store/apps/details?id=com.yackovsky.holler.wht"
+	linkTarget="_blank"
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\Holler.png">
+    <title><![CDATA[Holler]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MFlats.png"
+	thumbURL="thumbs/MFlats.jpg"
+	linkURL="http://mushcube.deviantart.com/art/M-Flat-393189031"
+	linkTarget="_blank"
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\MFlats.png">
+    <title><![CDATA[MFlat]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/MinUI.png"
+	thumbURL="thumbs/MinUI.jpg"
+	linkURL="https://play.google.com/store/apps/details?id=com.launchertheme.kxnt.ui"
+	linkTarget="_blank"
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\MinUI.png">
+    <title><![CDATA[MinUI]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Nox.png"
+	thumbURL="thumbs/Nox.jpg"
+	linkURL="https://play.google.com/store/apps/details?id=kov.theme.nox"
+	linkTarget="_blank"
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\Nox.png">
+    <title><![CDATA[Nox]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
