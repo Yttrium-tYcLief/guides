@@ -8,7 +8,6 @@
 	imageQuality="99"
 	showThumbsButton="false"
 	showOpenButton="true"
-	galleryHeight="63%"
 	galleryTitle=""
 	backgroundColor="rgba(34,34,34,1)"
 	thumbFrameColor="rgba(255,255,255,.5)"
@@ -17,68 +16,100 @@
 	showExpandButton="false"
 
 >
-  <image imageURL="images/Stark.png"
-	thumbURL="thumbs/Stark.jpg"
+  <image imageURL="images/icons/JPEG/Stark.jpg"
+	thumbURL="images/icons/thumbs/Stark.png"
 	linkURL="https://play.google.com/store/apps/details?id=kov.theme.stark"
 	linkTarget="_blank"
-	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\Stark.png">
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\icons\JPEG\Stark.jpg">
     <title><![CDATA[Stark]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/Tersus.png"
-	thumbURL="thumbs/Tersus.jpg"
+  <image imageURL="images/icons/JPEG/Tersus.jpg"
+	thumbURL="images/icons/thumbs/Tersus.png"
 	linkURL="https://play.google.com/store/apps/details?id=kov.theme.tersus"
 	linkTarget="_blank"
-	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\Tersus.png">
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\icons\JPEG\Tersus.jpg">
     <title><![CDATA[Tersus]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/Tiny White.png"
-	thumbURL="thumbs/Tiny White.jpg"
+  <image imageURL="images/icons/JPEG/TinyWhite.jpg"
+	thumbURL="images/icons/thumbs/TinyWhite.png"
 	linkURL="https://play.google.com/store/apps/details?id=com.samanthaconner.tinywhite"
 	linkTarget="_blank"
-	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\Tiny White.png">
-    <title><![CDATA[Tiny White]]></title>
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\icons\JPEG\TinyWhite.jpg">
+    <title><![CDATA[Tiny White Icon Pack]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/Flatro.png"
-	thumbURL="thumbs/Flatro.jpg"
+  <image imageURL="images/icons/JPEG/Flatro.jpg"
+	thumbURL="images/icons/thumbs/Flatro.png"
 	linkURL="https://play.google.com/store/apps/details?id=com.ryanmkelly.me.flatro"
 	linkTarget="_blank"
-	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\Flatro.png">
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\icons\JPEG\Flatro.jpg">
     <title><![CDATA[Flatro]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/Holler.png"
-	thumbURL="thumbs/Holler.jpg"
+  <image imageURL="images/icons/JPEG/Holler.jpg"
+	thumbURL="images/icons/thumbs/Holler.png"
 	linkURL="https://play.google.com/store/apps/details?id=com.yackovsky.holler.wht"
 	linkTarget="_blank"
-	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\Holler.png">
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\icons\JPEG\Holler.jpg">
     <title><![CDATA[Holler]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/MFlats.png"
-	thumbURL="thumbs/MFlats.jpg"
+  <image imageURL="images/icons/JPEG/MFlat.jpg"
+	thumbURL="images/icons/thumbs/MFlat.png"
 	linkURL="http://mushcube.deviantart.com/art/M-Flat-393189031"
 	linkTarget="_blank"
-	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\MFlats.png">
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\icons\JPEG\MFlats.jpg">
     <title><![CDATA[MFlat]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/MinUI.png"
-	thumbURL="thumbs/MinUI.jpg"
+  <image imageURL="images/icons/JPEG/MinimalUI.jpg"
+	thumbURL="images/icons/thumbs/MinimalUI.png"
 	linkURL="https://play.google.com/store/apps/details?id=com.launchertheme.kxnt.ui"
 	linkTarget="_blank"
-	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\MinUI.png">
-    <title><![CDATA[MinUI]]></title>
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\icons\JPEG\MinimalUI.jpg">
+    <title><![CDATA[Minimal UI]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/Nox.png"
-	thumbURL="thumbs/Nox.jpg"
+  <image imageURL="images/icons/JPEG/Nox.jpg"
+	thumbURL="images/icons/thumbs/Nox.png"
 	linkURL="https://play.google.com/store/apps/details?id=kov.theme.nox"
 	linkTarget="_blank"
-	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\Nox.png">
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\icons\JPEG\Nox.jpg">
     <title><![CDATA[Nox]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/icons/JPEG/ClickUI.jpg"
+	thumbURL="images/icons/thumbs/ClickUI.png"
+	linkURL="https://play.google.com/store/apps/details?id=com.launchertheme.kxnt.click"
+	linkTarget="_blank"
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\icons\JPEG\ClickUI.jpg">
+    <title><![CDATA[Click UI]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/icons/JPEG/Crayon.jpg"
+	thumbURL="images/icons/thumbs/Crayon.png"
+	linkURL="https://play.google.com/store/apps/details?id=com.oxt.icons"
+	linkTarget="_blank"
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\icons\JPEG\Crayon.jpg">
+    <title><![CDATA[Crayon]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/icons/JPEG/Mianogen.jpg"
+	thumbURL="images/icons/thumbs/Mianogen.png"
+	linkURL="https://play.google.com/store/apps/details?id=com.tung91.miaicon"
+	linkTarget="_blank"
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\icons\JPEG\Mianogen.jpg">
+    <title><![CDATA[Mianogen]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/icons/JPEG/NeonPixelz.jpg"
+	thumbURL="images/icons/thumbs/NeonPixelz.png"
+	linkURL="https://play.google.com/store/apps/details?id=com.go.launcherex.theme.kxnt.neon"
+	linkTarget="_blank"
+	sourcePath="C:\Users\alex\Documents\GitHub\Rice\Android\images\icons\JPEG\NeonPixelz.jpg">
+    <title><![CDATA[Neon Pixelz]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>
